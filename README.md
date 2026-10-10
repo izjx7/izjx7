@@ -5,7 +5,7 @@
 - 🔭 Currently working on **[Project Name]**
 - 🌱 Currently learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="16" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="16" />
 - 💬 Ask me about **Networking, Linux, Python, or Web Development**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[izjx7@outlook.com]**
 
 ---
 
