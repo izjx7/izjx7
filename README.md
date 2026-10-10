@@ -29,6 +29,10 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
+
+- 🌱 Currently learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="16" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="16" />
+
+- 🌱 Currently learning <img src="https://skillicons.dev/icons?i=python,java" height="20" />
 <!--
 **izjx7/izjx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
