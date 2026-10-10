@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yazeed Alharbi!
 
 ### 👨‍💻 About Me
-- 🎓 Studying **Information technology**
+- 🎓 Studying **Information Technology**
 - 🔭 Currently working on **[Project Name]**
 - 🌱 Currently learning **[Technology / Topic]**
 - 💬 Ask me about **Networking, Linux, Python, or Web Development**
